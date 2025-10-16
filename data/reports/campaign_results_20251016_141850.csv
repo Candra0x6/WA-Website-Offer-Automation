@@ -1,0 +1,12 @@
+Timestamp,Business Name,Phone,Message Type,Status,Error Message,Message Preview,Retry Count,Duration (seconds)
+2025-10-16T14:18:41.768324,Coffee Paradise,+12025551001,creation,success,,"Hello Coffee Paradise, I came across your business — it looks great! I specializ",0,0.0
+2025-10-16T14:18:42.769075,Tech Solutions Inc,+12025551002,enhancement,success,,"Hey Tech Solutions Inc, I took a look at https://techsolutions.com and see some ",0,0.0
+2025-10-16T14:18:44.770088,Green Garden Restaurant,+12025551003,creation,success,,"Hi Green Garden Restaurant, we recently helped a similar business increase onlin",0,0.0
+2025-10-16T14:18:44.770234,Digital Marketing Pro,+12025551004,enhancement,success,,"Hey Digital Marketing Pro, I took a look at https://digitalmarketingpro.com and ",0,0.0
+2025-10-16T14:18:46.771342,Fitness Center Plus,+12025551005,enhancement,success,,"Hi Fitness Center Plus, your current site looks good, but a refreshed design cou",0,0.0
+2025-10-16T14:18:47.771601,Book Haven,+12025551006,creation,success,,"Hi Book Haven, your business sounds amazing! I help local brands like yours crea",0,0.0
+2025-10-16T14:18:49.772144,Auto Repair Shop,+12025551007,creation,success,,"Hello Auto Repair Shop, I came across your business — it looks great! I speciali",0,0.0
+2025-10-16T14:18:49.772269,Fashion Boutique,+12025551008,enhancement,success,,"Hello Fashion Boutique, your website has potential! I help businesses modernize ",0,0.0
+2025-10-16T14:18:49.772327,Pet Grooming Service,+12025551009,creation,success,,"Hi Pet Grooming Service, we recently helped a similar business increase online l",0,0.0
+2025-10-16T14:18:49.772395,Home Cleaning Experts,+12025551010,enhancement,success,,"Hi Home Cleaning Experts, your current site looks good, but a refreshed design c",0,0.0
+2025-10-16T14:18:50.772930,Bad Website URL,+12025551012,creation,success,,"Hello Bad Website URL, I build affordable, professional websites for small busin",0,0.0

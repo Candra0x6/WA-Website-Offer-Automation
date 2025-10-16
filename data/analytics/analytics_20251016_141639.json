@@ -1,0 +1,168 @@
+{
+  "export_time": "2025-10-16T14:16:39.426704",
+  "performance_summary": {
+    "campaign_metrics": {
+      "total_businesses": 11,
+      "messages_sent": 0,
+      "messages_failed": 11,
+      "messages_skipped": 0,
+      "creation_messages": 0,
+      "enhancement_messages": 0,
+      "success_rate": "0.00%",
+      "average_message_time": "0.00s",
+      "rate_limit_hits": 0,
+      "batch_delays": 0
+    },
+    "message_distribution": {
+      "creation": 0,
+      "enhancement": 0,
+      "creation_percentage": 0.0,
+      "enhancement_percentage": 0.0
+    },
+    "error_breakdown": {
+      "other": 11
+    },
+    "hourly_stats": {
+      "2025-10-16 14:00": {
+        "sent": 0,
+        "failed": 11,
+        "skipped": 0
+      }
+    },
+    "top_errors": [
+      {
+        "error": "'Business' object has no attribute 'replace'",
+        "count": 11
+      }
+    ],
+    "timing_analysis": {
+      "min_time": 0.0,
+      "max_time": 0.0,
+      "avg_time": 0.0,
+      "total_time": 0.0
+    }
+  },
+  "business_analytics": [
+    {
+      "business_name": "Coffee Paradise",
+      "phone": "+12025551001",
+      "has_website": false,
+      "message_type": "creation",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.417526",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Tech Solutions Inc",
+      "phone": "+12025551002",
+      "has_website": true,
+      "message_type": "enhancement",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.417932",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Green Garden Restaurant",
+      "phone": "+12025551003",
+      "has_website": false,
+      "message_type": "creation",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.418317",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Digital Marketing Pro",
+      "phone": "+12025551004",
+      "has_website": true,
+      "message_type": "enhancement",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.418638",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Fitness Center Plus",
+      "phone": "+12025551005",
+      "has_website": true,
+      "message_type": "enhancement",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.418992",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Book Haven",
+      "phone": "+12025551006",
+      "has_website": false,
+      "message_type": "creation",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.419356",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Auto Repair Shop",
+      "phone": "+12025551007",
+      "has_website": false,
+      "message_type": "creation",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.419619",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Fashion Boutique",
+      "phone": "+12025551008",
+      "has_website": true,
+      "message_type": "enhancement",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.419965",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Pet Grooming Service",
+      "phone": "+12025551009",
+      "has_website": false,
+      "message_type": "creation",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.420280",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Home Cleaning Experts",
+      "phone": "+12025551010",
+      "has_website": true,
+      "message_type": "enhancement",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.420578",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    },
+    {
+      "business_name": "Bad Website URL",
+      "phone": "+12025551012",
+      "has_website": false,
+      "message_type": "creation",
+      "status": "failed",
+      "timestamp": "2025-10-16T14:16:39.420898",
+      "duration": 0.0,
+      "retry_count": 0,
+      "error": "'Business' object has no attribute 'replace'"
+    }
+  ]
+}

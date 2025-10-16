@@ -1,0 +1,35 @@
+{
+  "_comment": "Example configuration file for WhatsApp Campaign System",
+  "_description": "Copy this file to config.json and customize your settings",
+  
+  "excel": "data/data.xlsx",
+  "profile": "chrome_profile_whatsapp",
+  "dry_run": false,
+  "headless": false,
+  "resume": false,
+  "test": false,
+  "verbose": false,
+  "quiet": false,
+  
+  "_rate_limiting": "These settings are managed by DelayManager",
+  "min_message_delay": 20,
+  "max_message_delay": 90,
+  "batch_size": 15,
+  "min_batch_delay": 300,
+  "max_batch_delay": 900,
+  "max_daily_messages": 50,
+  "max_hourly_messages": 15,
+  
+  "_directories": "Output directories for reports and logs",
+  "reports_dir": "data/reports",
+  "analytics_dir": "data/analytics",
+  "logs_dir": "logs",
+  
+  "_notes": [
+    "All paths are relative to the project root directory",
+    "Set dry_run to true for testing without sending messages",
+    "Set test to true to use faster delays (for development)",
+    "Use headless mode for running on servers without display",
+    "Enable resume to continue from last campaign progress"
+  ]
+}

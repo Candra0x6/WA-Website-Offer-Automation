@@ -1,0 +1,17 @@
+{
+  "total_sent": 3,
+  "sent_today": 3,
+  "sent_this_hour": 3,
+  "last_message_time": "2025-10-16T14:24:29.930581",
+  "last_batch_delay_time": null,
+  "messages_since_batch_delay": 3,
+  "next_batch_delay_at": 16,
+  "current_date": "2025-10-16",
+  "current_hour": 14,
+  "hourly_counts": {
+    "2025-10-16 14:00": 3
+  },
+  "daily_counts": {
+    "2025-10-16": 3
+  }
+}

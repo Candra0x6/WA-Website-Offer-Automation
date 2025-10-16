@@ -1,0 +1,12 @@
+Timestamp,Business Name,Phone,Message Type,Status,Error Message,Message Preview,Retry Count,Duration (seconds)
+2025-10-16T14:16:39.417490,Coffee Paradise,+12025551001,creation,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.417870,Tech Solutions Inc,+12025551002,enhancement,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.418274,Green Garden Restaurant,+12025551003,creation,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.418615,Digital Marketing Pro,+12025551004,enhancement,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.418946,Fitness Center Plus,+12025551005,enhancement,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.419315,Book Haven,+12025551006,creation,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.419579,Auto Repair Shop,+12025551007,creation,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.419925,Fashion Boutique,+12025551008,enhancement,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.420240,Pet Grooming Service,+12025551009,creation,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.420541,Home Cleaning Experts,+12025551010,enhancement,failed,'Business' object has no attribute 'replace',,0,0.0
+2025-10-16T14:16:39.420853,Bad Website URL,+12025551012,creation,failed,'Business' object has no attribute 'replace',,0,0.0

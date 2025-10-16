@@ -1,0 +1,20 @@
+Metric,Value
+Campaign Details,
+Excel File,D:\Vs_Code_Project\Building\Python\whatsapp-offer\data\data.xlsx
+Dry Run,True
+Start Time,2025-10-16T13:40:23.364444
+End Time,2025-10-16T13:40:38.375146
+,
+Results Summary,
+Total Businesses,11
+Processed,11
+Sent Successfully,11
+Failed,0
+Skipped,0
+,
+Rate Limiting,
+Total Sent,0
+Sent Today,0
+Sent This Hour,0
+Daily Limit,1000
+Hourly Limit,100

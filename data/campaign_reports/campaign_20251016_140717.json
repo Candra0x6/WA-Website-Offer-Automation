@@ -1,0 +1,118 @@
+{
+  "campaign_info": {
+    "excel_file": "data\\data.xlsx",
+    "dry_run": true,
+    "start_time": "2025-10-16T14:07:10.687036",
+    "end_time": "2025-10-16T14:07:17.694934"
+  },
+  "summary": {
+    "total_businesses": 11,
+    "processed": 11,
+    "sent": 11,
+    "failed": 0,
+    "skipped": 0
+  },
+  "rate_limiting": {
+    "total_sent": 0,
+    "sent_today": 0,
+    "sent_this_hour": 0,
+    "daily_limit": 1000,
+    "hourly_limit": 100,
+    "messages_until_batch_delay": 5,
+    "last_message_time": null,
+    "current_date": "2025-10-16",
+    "current_hour": 14,
+    "can_send_more": true,
+    "limit_reason": null
+  },
+  "results": [
+    {
+      "business_name": "Coffee Paradise",
+      "phone": "+12025551001",
+      "message_type": "creation",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:10.687101"
+    },
+    {
+      "business_name": "Tech Solutions Inc",
+      "phone": "+12025551002",
+      "message_type": "enhancement",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:12.688109"
+    },
+    {
+      "business_name": "Green Garden Restaurant",
+      "phone": "+12025551003",
+      "message_type": "creation",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:14.692690"
+    },
+    {
+      "business_name": "Digital Marketing Pro",
+      "phone": "+12025551004",
+      "message_type": "enhancement",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:14.693030"
+    },
+    {
+      "business_name": "Fitness Center Plus",
+      "phone": "+12025551005",
+      "message_type": "enhancement",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:15.693858"
+    },
+    {
+      "business_name": "Book Haven",
+      "phone": "+12025551006",
+      "message_type": "creation",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:16.694124"
+    },
+    {
+      "business_name": "Auto Repair Shop",
+      "phone": "+12025551007",
+      "message_type": "creation",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:16.694177"
+    },
+    {
+      "business_name": "Fashion Boutique",
+      "phone": "+12025551008",
+      "message_type": "enhancement",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:16.694233"
+    },
+    {
+      "business_name": "Pet Grooming Service",
+      "phone": "+12025551009",
+      "message_type": "creation",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:16.694262"
+    },
+    {
+      "business_name": "Home Cleaning Experts",
+      "phone": "+12025551010",
+      "message_type": "enhancement",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:17.694820"
+    },
+    {
+      "business_name": "Bad Website URL",
+      "phone": "+12025551012",
+      "message_type": "creation",
+      "status": "success",
+      "error": null,
+      "timestamp": "2025-10-16T14:07:17.694913"
+    }
+  ]
+}

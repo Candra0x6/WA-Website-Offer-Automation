@@ -1,0 +1,20 @@
+Metric,Value
+Campaign Details,
+Excel File,data\data.xlsx
+Dry Run,False
+Start Time,2025-10-16T14:16:39.416990
+End Time,2025-10-16T14:16:39.420910
+,
+Results Summary,
+Total Businesses,11
+Processed,11
+Sent Successfully,0
+Failed,11
+Skipped,0
+,
+Rate Limiting,
+Total Sent,0
+Sent Today,0
+Sent This Hour,0
+Daily Limit,50
+Hourly Limit,15
